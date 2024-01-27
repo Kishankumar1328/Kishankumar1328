@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=kishankumar1328&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='![image](https://github.com/Kishankumar1328/Kishankumar1328/assets/144879299/faa8e908-4ef6-4fbc-b06a-1e14d7fe684f)
+<img src='![image]("https://github.com/Kishankumar1328/Kishankumar1328/assets/144879299/faa8e908-4ef6-4fbc-b06a-1e14d7fe684f")
 ' style="height: 400px;"/>
 
 ---
