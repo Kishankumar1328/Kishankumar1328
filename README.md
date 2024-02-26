@@ -3,25 +3,26 @@
 # 🎓 Certifications 📜
 
 1. **Data Analysis using Python**  
-   [![Certification](https://img.shields.io/badge/Certification-Data_Analysis_using_Python-blue)](https://credly.com/badges/ef16ffb5-db3c-4ded-b41b-fcaa35b2d2da/linked_in_profile)
+   [![Certification](https://img.shields.io/badge/Data_Analysis_using_Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://credly.com/badges/ef16ffb5-db3c-4ded-b41b-fcaa35b2d2da/linked_in_profile)
 
 2. **Python for Data Science**  
-   [![Certification](https://img.shields.io/badge/Certification-Python_for_Data_Science-blue)](https://www.credly.com/badges/f7efca15-02ec-46be-a0ac-84c62fea02b3/linked_in_profile)
+   [![Certification](https://img.shields.io/badge/Python_for_Data_Science-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.credly.com/badges/f7efca15-02ec-46be-a0ac-84c62fea02b3/linked_in_profile)
 
 3. **Data Visualization Using Python**  
-   [![Certification](https://img.shields.io/badge/Certification-Data_Visualization_Using_Python-blue)](https://www.credly.com/badges/a33539eb-e491-449c-8a12-6f1f925248ba/linked_in_profile)
+   [![Certification](https://img.shields.io/badge/Data_Visualization_Using_Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.credly.com/badges/a33539eb-e491-449c-8a12-6f1f925248ba/linked_in_profile)
 
 4. **Applied Data Science**  
-   [![Certification](https://img.shields.io/badge/Certification-Applied_Data_Science-blue)](https://www.credly.com/badges/7b399bf8-3691-4ede-b4a9-77cfa15fb325/linked_in_profile)
+   [![Certification](https://img.shields.io/badge/Applied_Data_Science-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.credly.com/badges/7b399bf8-3691-4ede-b4a9-77cfa15fb325/linked_in_profile)
 
 5. **Machine Learning**  
-   [![Certification](https://img.shields.io/badge/Certification-Machine_Learning-blue)](https://courses.cognitiveclass.ai/certificates/a3fde26a28a04c60adab05199e3294d4)
+   [![Certification](https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge&logo=python&logoColor=white)](https://courses.cognitiveclass.ai/certificates/a3fde26a28a04c60adab05199e3294d4)
 
 6. **Prompt Engineering**  
-   [![Certification](https://img.shields.io/badge/Certification-Prompt_Engineering-blue)](https://courses.cognitiveclass.ai/certificates/e605bffd4da945149049fe4a2955efd4)
+   [![Certification](https://img.shields.io/badge/Prompt_Engineering-blue?style=for-the-badge&logo=python&logoColor=white)](https://courses.cognitiveclass.ai/certificates/e605bffd4da945149049fe4a2955efd4)
 
 7. **Data Science Methodologies**  
-   [![Certification](https://img.shields.io/badge/Certification-Data_Science_Methodologies-blue)](https://www.credly.com/badges/70ae2196-2b81-4544-b703-16d7b09cdccb/linked_in_profile)
+   [![Certification](https://img.shields.io/badge/Data_Science_Methodologies-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.credly.com/badges/70ae2196-2b81-4544-b703-16d7b09cdccb/linked_in_profile)
+
 
 
 
