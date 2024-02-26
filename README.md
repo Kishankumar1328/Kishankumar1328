@@ -18,7 +18,7 @@
    [![Certification](https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge&logo=python&logoColor=black&color=orange)](https://courses.cognitiveclass.ai/certificates/a3fde26a28a04c60adab05199e3294d4)
 
 6. **Prompt Engineering**  
-   [![Certification](https://img.shields.io/badge/Prompt_Engineering-blue?style=for-the-badge&logo=prompt&logoColor=white&color=blue)](https://courses.cognitiveclass.ai/certificates/e605bffd4da945149049fe4a2955efd4)
+   [![Certification](https://img.shields.io/badge/Prompt_Engineering-orange?style=for-the-badge&logo=robot&logoColor=black&color=orange)](https://courses.cognitiveclass.ai/certificates/e605bffd4da945149049fe4a2955efd4)
 
 7. **Data Science Methodologies**  
    [![Certification](https://img.shields.io/badge/Data_Science_Methodologies-orange?style=for-the-badge&logo=python&logoColor=black&color=orange)](https://www.credly.com/badges/70ae2196-2b81-4544-b703-16d7b09cdccb/linked_in_profile)
