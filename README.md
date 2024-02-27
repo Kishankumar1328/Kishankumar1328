@@ -32,7 +32,8 @@
 
 ### Data Scraping Tools
 [![Requests](https://img.shields.io/badge/requests-%23000000.svg?style=for-the-badge&logo=requests&logoColor=blue)](https://docs.python-requests.org/en/master/)
-[![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-%23000000.svg?style=for-the-badge&logo=beautifulsoup&logoColor=blue)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+[![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-%23000000.svg?style=for-the-badge&logo=beautifulsoup&logoColor=green)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+
 
 ### Editor Tools
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
