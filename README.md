@@ -46,7 +46,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23491869/kishan-kumar-suresh-kumar)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/KishanKumar1329)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%236A5ACD.svg?logo=hackerrank&logoColor=white&color=green)](https://www.hackerrank.com/profile/kishankumar13281)
-[![Email](https://img.shields.io/badge/Email-%236A5ACD.svg?logo=gmail&logoColor=white&color=green)](mailto:krss132005@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%236A5ACD.svg?logo=gmail&logoColor=white&color=lavender)](mailto:krss132005@gmail.com)
 
 
 
