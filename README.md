@@ -71,19 +71,19 @@
    [![Certification](https://img.shields.io/badge/Data_Science_Methodologies-orange?style=for-the-badge&logo=python&logoColor=black&color=orange)](https://www.credly.com/badges/70ae2196-2b81-4544-b703-16d7b09cdccb/linked_in_profile)
 
 
-# Skills
+# 🚀Skills
 
 
-[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.datapine.com/blog/data-analysis-methods-and-techniques/)
+   [![Data Analysis](https://img.shields.io/badge/Data%20Analysis-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.datapine.com/blog/data-analysis-methods-and-techniques/)
 
 
-[![Python](https://img.shields.io/badge/Python-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org/)
+   [![Python](https://img.shields.io/badge/Python-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org/)
 
-[![Data Visualization**](https://img.shields.io/badge/Data%20Visualization-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.ibm.com/topics/data-visualization)
+   [![Data Visualization**](https://img.shields.io/badge/Data%20Visualization-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.ibm.com/topics/data-visualization)
 
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.ibm.com/topics/machine-learning)
+   [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.ibm.com/topics/machine-learning)
 
-[![Prompting](https://img.shields.io/badge/Prompting-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.ibm.com/topics/prompt-engineering)
+   [![Prompting](https://img.shields.io/badge/Prompting-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.ibm.com/topics/prompt-engineering)
 
 
 
