@@ -101,6 +101,8 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/KishanKumar1329)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%236A5ACD.svg?logo=hackerrank&logoColor=white&color=green)](https://www.hackerrank.com/profile/kishankumar13281)
 [![Email](https://img.shields.io/badge/Email-%236A5ACD.svg?logo=gmail&logoColor=white&color=lavender)](mailto:krss132005@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%236A5ACD.svg?logo=phone&logoColor=white&color=lavender)](tel:6380383183)
+
 
 
 
