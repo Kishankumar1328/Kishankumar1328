@@ -70,24 +70,22 @@
 7. **Data Science Methodologies**  
    [![Certification](https://img.shields.io/badge/Data_Science_Methodologies-orange?style=for-the-badge&logo=python&logoColor=black&color=orange)](https://www.credly.com/badges/70ae2196-2b81-4544-b703-16d7b09cdccb/linked_in_profile)
 
-# Skills
-
 
 # Skills
 
-* Data Analysis
+**Data Analysis**
 [![Data Analysis](https://img.shields.io/badge/Data%20Analysis-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.example.com)
 
-* Python
+**Python**
 [![Python](https://img.shields.io/badge/Python-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.example.com)
 
-* Data Visualization
+**Data Visualization**
 [![Data Visualization](https://img.shields.io/badge/Data%20Visualization-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.example.com)
 
-* Machine Learning
+**Machine Learning**
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.example.com)
 
-* Prompting
+**Prompting**
 [![Prompting](https://img.shields.io/badge/Prompting-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.example.com)
 
 
