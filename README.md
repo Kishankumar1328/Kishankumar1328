@@ -71,6 +71,14 @@
    [![Certification](https://img.shields.io/badge/Data_Science_Methodologies-orange?style=for-the-badge&logo=python&logoColor=black&color=orange)](https://www.credly.com/badges/70ae2196-2b81-4544-b703-16d7b09cdccb/linked_in_profile)
 
 
+   # Skills
+
+| Data Analysis | Python | Data Visualization | Machine Learning | Prompting |
+| --- | --- | --- | --- | --- |
+| [![Data Analysis](https://img.shields.io/badge/Data%20Analysis-orange)](https://www.example.com) | [![Python](https://img.shields.io/badge/Python-black)](https://www.example.com) | [![Data Visualization](https://img.shields.io/badge/Data%20Visualization-orange)](https://www.example.com) | [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-black)](https://www.example.com) | [![Prompting](https://img.shields.io/badge/Prompting-orange)](https://www.example.com) |
+
+
+
 
 
 
