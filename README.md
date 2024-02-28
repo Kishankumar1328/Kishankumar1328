@@ -46,7 +46,7 @@
 
 ## Cloud
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&link=https://github.com/kishankumar1328)](https://github.com/kishankumar1328)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kishankumar1328)
+[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kishankumar1328)
 
 
 
