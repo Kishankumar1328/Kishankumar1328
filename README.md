@@ -73,19 +73,19 @@
 
 # Skills
 
-**Data Analysis**
+1.**Data Analysis**
 [![Data Analysis](https://img.shields.io/badge/Data%20Analysis-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.example.com)
 
-**Python**
+2.**Python**
 [![Python](https://img.shields.io/badge/Python-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.example.com)
 
-**Data Visualization**
+3.**Data Visualization**
 [![Data Visualization](https://img.shields.io/badge/Data%20Visualization-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.example.com)
 
-**Machine Learning**
+4.**Machine Learning**
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.example.com)
 
-**Prompting**
+5.**Prompting**
 [![Prompting](https://img.shields.io/badge/Prompting-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.example.com)
 
 
