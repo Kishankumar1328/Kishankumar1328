@@ -104,7 +104,7 @@
 
 
 ---
-[![Visit Count](https://visitcount.itsvg.in/api?id=kishankumar1328&icon=7&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kishankumar1328&label=Profile%20Views&color=0&icon=7&pretty=false)](https://visitcount.itsvg.in)
 
 
 
