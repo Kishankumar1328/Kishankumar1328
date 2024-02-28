@@ -73,11 +73,23 @@
 # Skills
 
 
- [![Data Analysis](https://img.shields.io/badge/Data_Analysis_using_Python-orange?style=for-the-badge&logo=python&logoColor=black&color=orange)] 
- [![Python](https://img.shields.io/badge/Data_Analysis_using_Python-orange?style=for-the-badge&logo=python&logoColor=black&color=orange)]
- [![Data Visualization](https://img.shields.io/badge/Data_Analysis_using_Python-orange?style=for-the-badge&logo=python&logoColor=black&color=orange) 
- [![Machine Learning](https://img.shields.io/badge/Data_Analysis_using_Python-orange?style=for-the-badge&logo=python&logoColor=black&color=orange) 
-  [![Prompting](https://img.shields.io/badge/Prompting-orange)]
+# Skills
+
+* Data Analysis
+[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.example.com)
+
+* Python
+[![Python](https://img.shields.io/badge/Python-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.example.com)
+
+* Data Visualization
+[![Data Visualization](https://img.shields.io/badge/Data%20Visualization-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.example.com)
+
+* Machine Learning
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.example.com)
+
+* Prompting
+[![Prompting](https://img.shields.io/badge/Prompting-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.example.com)
+
 
 
 
