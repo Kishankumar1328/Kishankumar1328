@@ -3,7 +3,7 @@
 
 
 # 💻 Tech Stack:
-### Languages
+## Languages
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
@@ -12,17 +12,17 @@
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 
-### Machine Learning Tools
+## Machine Learning Tools
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
-### Data Analysis Tools
+## Data Analysis Tools
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Polars](https://img.shields.io/badge/Polars-%23000000.svg?style=for-the-badge&logo=polars&logoColor=white)](https://pola.rs/)
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](https://www.scipy.org/)
 
-### Visualization Tools
+## Visualization Tools
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-%23000000.svg?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
@@ -30,12 +30,12 @@
 [![Power BI](https://img.shields.io/badge/Power%20BI-%230078D4.svg?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
 
 
-### Data Scraping Tools
+## Data Scraping Tools
 [![Requests](https://img.shields.io/badge/requests-%23000000.svg?style=for-the-badge&logo=requests&logoColor=blue)](https://docs.python-requests.org/en/master/)
 [![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-%23000000.svg?style=for-the-badge&logo=beautifulsoup&logoColor=green)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 
-### Editor Tools
+## Editor Tools
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
 [![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)](https://www.adobe.com/)
 [![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)](https://acrobat.adobe.com/)
