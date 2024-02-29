@@ -89,7 +89,7 @@
 
    [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.ibm.com/topics/machine-learning)
 
-   [![Prompting](https://img.shields.io/badge/Prompting-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.ibm.com/topics/prompt-engineering)
+   [![Prompt Engineering](https://img.shields.io/badge/Prompting-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.ibm.com/topics/prompt-engineering)
 
 
 
