@@ -45,7 +45,25 @@
 [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
 
 ## Cloud
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&link=https://github.com/kishankumar1328)](https://github.com/kishankumar1328)
+[![GitHub](https://img.shields.io/badge/-GitHub-<COLOR>?style=flat-square&logo=GitHub&link=https://github.com/kishankumar1328)](https://github.com/kishankumar1328)
+
+<script>
+const colors = ['red', 'green', 'blue', 'yellow', 'purple', 'orange'];
+
+function changeColor() {
+  const badge = document.querySelector('img[alt="GitHub"]');
+  const randomIndex = Math.floor(Math.random() * colors.length);
+  const randomColor = colors[randomIndex];
+  badge.src = `https://img.shields.io/badge/-GitHub-${randomColor}?style=flat-square&logo=GitHub&link=https://github.com/kishankumar1328`;
+}
+
+// Initial color change
+changeColor();
+
+// Change color every 3 seconds
+setInterval(changeColor, 3000);
+</script>
+
 [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kishankumar1328)
 
 
