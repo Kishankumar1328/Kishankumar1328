@@ -45,7 +45,7 @@
 [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
 
 ## Cloud
-[![GitHub](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/kishankumar1328/9a8a9d9e1c9f8e5f2f9d3a6c02a9c2c9/raw/1a2e3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t1u2v3w4x5y6z7a8b9c0d1e2f3g4h5i6j7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z3a4b5c6d7e8f9g0h1i2j3k4l5m6n7o8p9q0r1s2t3u4v5w6x7y8z9)](https://github.com/kishankumar1328)
+![GitHub](https://img.shields.io/badge/-GitHub-<COLOR>?style=flat-square&logo=GitHub&link=https://github.com/kishankumar1328)
 
 
 [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kishankumar1328)
