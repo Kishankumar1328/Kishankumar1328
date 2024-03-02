@@ -51,10 +51,10 @@
 [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
 
 ## Cloud
-![GitHub](https://img.shields.io/badge/-GitHub-<COLOR>?style=flat-square&logo=GitHub&link=https://github.com/kishankumar1328)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&link=https://github.com/kishankumar1328)](https://github.com/kishankumar1328)
+[![Google Colab](https://img.shields.io/badge/Google_Colab-25D366?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com/github/kishankumar1328)
 
 
-[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kishankumar1328)
 
 
 
