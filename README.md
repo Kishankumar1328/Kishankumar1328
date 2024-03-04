@@ -7,7 +7,6 @@
 📫 How to reach me krss132005@gmail.com
 
 
-
 # 💻 Tech Stack:
 ## Languages
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
