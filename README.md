@@ -1,10 +1,20 @@
+<h1 align="center">Hi<img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="60px">, I'm Kishan Kumar 🇮🇳</h1>
+<p align="left">
+
 ![MasterHead](https://gifdb.com/images/high/ai-finger-print-recognition-zl4ku51ojamo22k9.gif)
 
 
 # 💫 About Me:
 🌱 I’m currently learning Machine Learning<br><br>
 💬 Ask me about Data Analysis,Data Visualization,Machine Learning<br><br>
-📫 How to reach me krss132005@gmail.com
+📫 How to reach me krss132005@gmail.com<br><br>
+🚀 See My Code Profile: [![HackerRank](https://img.shields.io/badge/HackerRank-%236A5ACD.svg?style=for-the-badge&logo=hackerrank&logoColor=white&color=green)](https://www.hackerrank.com/krss132005/) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/krss132005/)
+
+
+
+
+
+
 
 
 # 💻 Tech Stack:
@@ -133,6 +143,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kishankumar1328&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+## 📉 Productivity stats
+ ![KISHAN KUMAR Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kishankumar1328&theme=monokai)
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
