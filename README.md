@@ -114,7 +114,7 @@
 
 
 
-## 🌐 Socials:
+## 🌐 Connect With Me:
 [![Discord](https://img.shields.io/badge/Discord-%238A2BE2.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/tenacious_quail_34080) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/kish130105?igsh=ZjF2NHRvb3BoNmpl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-kumar-037175259/) 
