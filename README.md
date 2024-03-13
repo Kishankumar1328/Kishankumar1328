@@ -54,22 +54,39 @@
 [![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-%23000000.svg?style=for-the-badge&logo=beautifulsoup&logoColor=green)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 <br><br>
 
-
 ## Editors
 
 [![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)](https://www.adobe.com/)
 [![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)](https://acrobat.adobe.com/)
 <br><br>
 
+
 ## Designing
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
 [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
 <br><br>
 
+
+## Prompting 
+
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-%2300FF00.svg?style=for-the-badge&logo=openai&logoColor=white)](https://www.openai.com/gpt-3/)
+[![Claud AI](https://img.shields.io/badge/ClaudAI-%238B4513.svg?style=for-the-badge&logo=claud&logoColor=white)](https://claud.ai/)
+[![Gemini AI](https://img.shields.io/badge/GeminiAI-%23552A7E.svg?style=for-the-badge&logo=gemini&logoColor=white)](https://www.gemini.ai/)
+
 ## Cloud
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&link=https://github.com/kishankumar1328)](https://github.com/kishankumar1328)
 [![Google Colab](https://img.shields.io/badge/Google_Colab-25D366?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com/github/kishankumar1328)
 <br><br><br>
+
+
+
+
+
+
+
+
+
+
 
 
 
