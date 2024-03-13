@@ -48,6 +48,12 @@
 [![Power BI](https://img.shields.io/badge/Power%20BI-%230078D4.svg?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
 <br><br>
 
+## Web Application framework
+[![Streamlit](https://img.shields.io/badge/Streamlit-%230072b1.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Gradio](https://img.shields.io/badge/Gradio-%23000000.svg?style=for-the-badge&logo=gradio&logoColor=white&labelColor=2d2d2d)](https://www.gradio.app/)<br><br>
+
+
+
 
 ## Data Scraping 
 [![Requests](https://img.shields.io/badge/requests-%23000000.svg?style=for-the-badge&logo=requests&logoColor=blue)](https://docs.python-requests.org/en/master/)
@@ -71,7 +77,7 @@
 
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-%2300FF00.svg?style=for-the-badge&logo=openai&logoColor=white)](https://www.openai.com/gpt-3/)
 [![Claud AI](https://img.shields.io/badge/ClaudAI-%238B4513.svg?style=for-the-badge&logo=claud&logoColor=white)](https://claud.ai/)
-[![Gemini AI](https://img.shields.io/badge/GeminiAI-%23552A7E.svg?style=for-the-badge&logo=gemini&logoColor=white)](https://www.gemini.ai/)
+[![Gemini AI](https://img.shields.io/badge/GeminiAI-%23552A7E.svg?style=for-the-badge&logo=gemini&logoColor=white)](https://www.gemini.ai/)<br><br>
 
 ## Cloud
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&link=https://github.com/kishankumar1328)](https://github.com/kishankumar1328)
