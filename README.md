@@ -43,14 +43,15 @@
 ## Visualization 
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-%23000000.svg?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-%232d2d2d.svg?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![Folium](https://img.shields.io/badge/Folium-%23663399.svg?style=for-the-badge&logo=folium&logoColor=white)](https://python-visualization.github.io/folium/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-%230078D4.svg?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
 <br><br>
 
 ## Web Application framework
-[![Streamlit](https://img.shields.io/badge/Streamlit-%230072b1.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Gradio](https://img.shields.io/badge/Gradio-%23000000.svg?style=for-the-badge&logo=gradio&logoColor=white&labelColor=2d2d2d)](https://www.gradio.app/)<br><br>
+[![Streamlit](https://img.shields.io/badge/Streamlit-%23FF5733.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Gradio](https://img.shields.io/badge/Gradio-%230072b1.svg?style=for-the-badge&logo=gradio&logoColor=white)](https://www.gradio.app/)
+
 
 
 
@@ -58,7 +59,7 @@
 ## Data Scraping 
 [![Requests](https://img.shields.io/badge/requests-%23000000.svg?style=for-the-badge&logo=requests&logoColor=blue)](https://docs.python-requests.org/en/master/)
 [![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-%23000000.svg?style=for-the-badge&logo=beautifulsoup&logoColor=green)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-<br><br>
+
 
 ## Editors
 
