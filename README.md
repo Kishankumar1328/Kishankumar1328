@@ -1,7 +1,7 @@
 <h1 align="center">Hi<img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="60px"> I'm Kishan Kumar 🇮🇳</h1>
 <p align="left">
 
-![MasterHead](https://gifdb.com/images/high/ai-finger-print-recognition-zl4ku51ojamo22k9.gif )
+![MasterHead](https://gifdb.com/images/high/ai-finger-print-recognition-zl4ku51ojamo22k9.gif)
 
 # 💫 About Me:
 🌱 I’m currently learning Machine Learning<br><br><br>
