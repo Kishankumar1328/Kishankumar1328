@@ -80,8 +80,10 @@
 ## Prompting 
 
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-%2300FF00.svg?style=for-the-badge&logo=openai&logoColor=white)](https://www.openai.com/gpt-3/)
-[![Claud AI](https://img.shields.io/badge/ClaudAI-%238B4513.svg?style=for-the-badge&logo=claud&logoColor=white)](https://claud.ai/)
-[![Gemini AI](https://img.shields.io/badge/GeminiAI-%23552A7E.svg?style=for-the-badge&logo=gemini&logoColor=white)](https://www.gemini.ai/)<br><br>
+[![Claud AI](https://img.shields.io/badge/ClaudAI-Silver?style=for-the-badge&logo=claud&logoColor=white&color=C0C0C0)](https://claud.ai/)
+[![Gemini AI](https://img.shields.io/badge/GeminiAI-Orange?style=for-the-badge&logo=gemini&logoColor=white&color=FFA500)](https://www.gemini.ai/)
+
+<br><br>
 
 ## Cloud
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&link=https://github.com/kishankumar1328)](https://github.com/kishankumar1328)
