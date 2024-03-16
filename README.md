@@ -85,7 +85,8 @@
 
 ## Cloud
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&link=https://github.com/kishankumar1328)](https://github.com/kishankumar1328)
-[![Google Colab](https://img.shields.io/badge/Google_Colab-25D366?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com/github/kishankumar1328)
+[![Google Colab](https://img.shields.io/badge/Google_Colab-Gradient_Yellow?style=for-the-badge&logo=google-colab&logoColor=white&color=ffd700)](https://colab.research.google.com/github/kishankumar1328)
+
 <br><br><br>
 
 
