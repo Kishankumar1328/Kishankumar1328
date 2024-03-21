@@ -12,7 +12,8 @@
 📫 How to reach me krss132005@gmail.com<br><br><br>
 🚀 See My Code Profile: [![HackerRank](https://img.shields.io/badge/HackerRank-%236A5ACD.svg?style=for-the-badge&logo=hackerrank&logoColor=white&color=green)](https://www.hackerrank.com/profile/kishankumar13281) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/krss132005/)
 <br><br><br>
-⭐ Profile Views: [![Profile Views](https://visitcount.itsvg.in/api?id=kishankumar1328&label=&color=0&icon=7&style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHZpZXdCb3g9IjAgMCA2MCA2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjYwIiBoZWlnaHQ9IjYwIiByeD0iOCIgZmlsbD0ibm9uZSIgLz4KPC9zdmc+&logoColor=white)](https://visitcount.itsvg.in)
+⭐ Profile Views: <a href="https://komarev.com/ghpvc/?username=kishankumar1328">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=kishankumar1328&style=for-the-badge&color=grey"/></a>
 
 
 
@@ -37,15 +38,15 @@
 <br><br>
 
 ## Machine Learning 
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
+[![Tensorflow](<https://img.shields.io/badge/TensorFlow-rgb(249,130,3)?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=> )](https://www.tensorflow.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 <br><br>
 
 ## Data Analysis 
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-61DBFB?style=for-the-badge&labelColor=black&logo=pandas&logoColor=61DBFB)](https://pandas.pydata.org/)
+[![Numpy](https://img.shields.io/badge/Numpy-66e599?style=for-the-badge&labelColor=black&logo=numpy&logoColor=66e599)](https://numpy.org/)
+[![SCIPY](https://img.shields.io/badge/Scipy-000000?style=for-the-badge&logo=scipy&logoColor=blue)](https://www.scipy.org/)
 [![Polars](https://img.shields.io/badge/Polars-%23000000.svg?style=for-the-badge&logo=polars&logoColor=white)](https://pola.rs/)
-[![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](https://www.scipy.org/)
 <br><br>
 
 ## Visualization 
@@ -53,7 +54,7 @@
 [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-%232d2d2d.svg?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![Folium](https://img.shields.io/badge/Folium-%23663399.svg?style=for-the-badge&logo=folium&logoColor=white)](https://python-visualization.github.io/folium/)
-[![Power BI](https://img.shields.io/badge/Power%20BI-%230078D4.svg?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-%23FFD700.svg?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
 <br><br>
 
 ## Web Application framework
