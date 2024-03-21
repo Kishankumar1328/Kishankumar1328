@@ -10,7 +10,13 @@
 🌱 I’m currently learning Machine Learning<br><br><br>
 💬 Ask me about Data Analysis,Data Visualization,Machine Learning<br><br><br>
 📫 How to reach me krss132005@gmail.com<br><br><br>
-🚀 See My Code Profile: [![HackerRank](https://img.shields.io/badge/HackerRank-%236A5ACD.svg?style=for-the-badge&logo=hackerrank&logoColor=white&color=green)](https://www.hackerrank.com/profile/kishankumar13281) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/krss132005/)<br><br><br>
+🚀 See My Code Profile: [![HackerRank](https://img.shields.io/badge/HackerRank-%236A5ACD.svg?style=for-the-badge&logo=hackerrank&logoColor=white&color=green)](https://www.hackerrank.com/profile/kishankumar13281) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/krss132005/)
+<br><br><br>
+⭐ Profile Views: [![Profile Views](https://visitcount.itsvg.in/api?id=kishankumar1328&label=&color=0&icon=7&style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHZpZXdCb3g9IjAgMCA2MCA2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjYwIiBoZWlnaHQ9IjYwIiByeD0iOCIgZmlsbD0ibm9uZSIgLz4KPC9zdmc+&logoColor=white)](https://visitcount.itsvg.in)
+
+
+
+<br><br><br>
 
 
 
@@ -212,8 +218,6 @@
 <br><br><br>
 
 
-## Viewer
-[![](https://visitcount.itsvg.in/api?id=kishankumar1328&label=Profile%20Views&color=0&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
 
 
