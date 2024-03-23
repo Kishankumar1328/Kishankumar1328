@@ -7,7 +7,7 @@
 ![MasterHead](https://assets-global.website-files.com/6009d2de23c011ecef1fbe7a/65bad3b4a3298ddfbc2ea8fc_tacpoint-blog-v1-20240131.gif)
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://github.com/kishankumar1328 /readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=orange&size=30&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub!;Passionate+about+Data+Science;Machine+Learning+Enthusiast;Prompt+Engineer;Continuous+Learner;Open+to+Collaborations">
   </a>
 </p>
