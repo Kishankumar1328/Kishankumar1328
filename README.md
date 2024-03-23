@@ -1,52 +1,125 @@
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+<h1 align="center">Hi<img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="60px"> I'm Kishan Kumar 🇮🇳</h1>
+<p align="left">
+   
+
+![MasterHead](https://assets-global.website-files.com/6009d2de23c011ecef1fbe7a/65bad3b4a3298ddfbc2ea8fc_tacpoint-blog-v1-20240131.gif)
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=orange&size=30&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub!;Passionate+about+Data+Science;Machine+Learning+Enthusiast;Prompt+Engineer;Continuous+Learner;Open+to+Collaborations">
+  </a>
+</p>
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+
+
 # 💫 About Me:
-🌱 I’m currently learning Machine Learning<br><br>💬 Ask me about Data Analysis,Data Visualization,Machine Learning<br><br>📫 How to reach me krss132005@gmail.com
+🌱 I’m currently learning Machine Learning<br><br><br>
+💬 Ask me about Data Analysis,Data Visualization,Machine Learning<br><br><br>
+📫 How to reach me krss132005@gmail.com<br><br><br>
+🚀 See My Code Profile: [![HackerRank](https://img.shields.io/badge/HackerRank-%236A5ACD.svg?style=for-the-badge&logo=hackerrank&logoColor=white&color=green)](https://www.hackerrank.com/profile/kishankumar13281) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/krss132005/)
+<br><br><br>
+⭐ Profile Views: <a href="https://komarev.com/ghpvc/?username=kishankumar1328">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=kishankumar1328&style=for-the-badge&color=grey"/></a>
 
 
-# 💻 Tech Stack:
-## Languages
+
+<br><br><br>
+
+
+
+
+
+
+
+# 💻 Tech Stack:<br><br>
+
+## Programming Languages
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.com/)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
+<br><br>
 
-## Machine Learning Tools
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
+## Machine Learning 
+[![Tensorflow](<https://img.shields.io/badge/TensorFlow-rgb(249,130,3)?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=> )](https://www.tensorflow.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+<br><br>
 
-## Data Analysis Tools
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+## Data Analysis 
+[![Pandas](https://img.shields.io/badge/Pandas-61DBFB?style=for-the-badge&labelColor=black&logo=pandas&logoColor=61DBFB)](https://pandas.pydata.org/)
+[![Numpy](https://img.shields.io/badge/Numpy-66e599?style=for-the-badge&labelColor=black&logo=numpy&logoColor=66e599)](https://numpy.org/)
+[![SCIPY](https://img.shields.io/badge/Scipy-000000?style=for-the-badge&logo=scipy&logoColor=blue)](https://www.scipy.org/)
 [![Polars](https://img.shields.io/badge/Polars-%23000000.svg?style=for-the-badge&logo=polars&logoColor=white)](https://pola.rs/)
-[![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](https://www.scipy.org/)
+<br><br>
 
-## Visualization Tools
+## Visualization 
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-%23000000.svg?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-%232d2d2d.svg?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![Folium](https://img.shields.io/badge/Folium-%23663399.svg?style=for-the-badge&logo=folium&logoColor=white)](https://python-visualization.github.io/folium/)
-[![Power BI](https://img.shields.io/badge/Power%20BI-%230078D4.svg?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-%23FFD700.svg?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
+<br><br>
+
+## Web Application framework
+[![Streamlit](https://img.shields.io/badge/Streamlit-%23FF5733.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Gradio](https://img.shields.io/badge/Gradio-%230072b1.svg?style=for-the-badge&logo=gradio&logoColor=white)](https://www.gradio.app/)
 
 
-## Data Scraping Tools
+
+
+
+## Data Scraping 
 [![Requests](https://img.shields.io/badge/requests-%23000000.svg?style=for-the-badge&logo=requests&logoColor=blue)](https://docs.python-requests.org/en/master/)
 [![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-%23000000.svg?style=for-the-badge&logo=beautifulsoup&logoColor=green)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 
-## Editor Tools
+## Editors
 
 [![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)](https://www.adobe.com/)
 [![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)](https://acrobat.adobe.com/)
+<br><br>
 
-## Designing Tools
+
+## Designing
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
 [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
+<br><br>
 
-## Cloud
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&link=https://github.com/kishankumar1328)](https://github.com/kishankumar1328)
-[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kishankumar1328)
+
+## Prompting 
+
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-%2300FF00.svg?style=for-the-badge&logo=openai&logoColor=white)](https://www.openai.com/gpt-3/)
+[![Claud AI](https://img.shields.io/badge/ClaudAI-Silver?style=for-the-badge&logo=claud&logoColor=white&color=C0C0C0)](https://claud.ai/)
+[![Gemini AI](https://img.shields.io/badge/GeminiAI-Orange?style=for-the-badge&logo=gemini&logoColor=white&color=FFA500)](https://www.gemini.ai/)
+
+<br><br>
+
+## Tools
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&link=https://github.com/kishankumar1328)](https://github.com/kishankumar1328)
+[![Google Colab](https://img.shields.io/badge/Google_Colab-Gradient_Yellow?style=for-the-badge&logo=google-colab&logoColor=white&color=ffd700)](https://colab.research.google.com/github/kishankumar1328)
+[![PyCharm](https://img.shields.io/badge/PyCharm-Radiant_Greenyellow?style=for-the-badge&logo=PyCharm&logoColor=white&color=00CC6A)](https://www.jetbrains.com/pycharm/)
+[![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=blue)](https://code.visualstudio.com/)
+
+<br><br><br>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -76,6 +149,8 @@
 7. **Data Science Methodologies**  
    [![Certification](https://img.shields.io/badge/Data_Science_Methodologies-orange?style=for-the-badge&logo=python&logoColor=black&color=orange)](https://www.credly.com/badges/70ae2196-2b81-4544-b703-16d7b09cdccb/linked_in_profile)
 
+   <br><br><br>
+
 
 # 🚀Skills
 
@@ -90,6 +165,8 @@
    [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.ibm.com/topics/machine-learning)
 
    [![Prompt Engineering](https://img.shields.io/badge/Prompting-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.ibm.com/topics/prompt-engineering)
+   [![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-orange?style=for-the-badge&logo=robot&logoColor=black&color=orange)](https://www.ibm.com/topics/prompt-engineering)
+   <br><br><br>
 
 
 
@@ -99,14 +176,19 @@
 
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%238A2BE2.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/tenacious_quail_34080) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/kish130105?igsh=ZjF2NHRvb3BoNmpl)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-kumar-037175259/) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23491869/kishan-kumar-suresh-kumar)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/KishanKumar1329)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%236A5ACD.svg?logo=hackerrank&logoColor=white&color=green)](https://www.hackerrank.com/profile/kishankumar13281)
-[![Email](https://img.shields.io/badge/Email-%236A5ACD.svg?logo=gmail&logoColor=white&color=lavender)](mailto:krss132005@gmail.com)
+## 🌐 Connect With Me:
+[![Discord](https://img.shields.io/badge/Discord-%238A2BE2.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/invite/tenacious_quail_34080)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/kish130105?igshid=ZjF2NHRvb3BoNmpl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kishan-kumar-037175259/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/23491869/kishan-kumar-suresh-kumar)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/KishanKumar1329)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%236A5ACD.svg?logo=hackerrank&logoColor=white&color=green&style=for-the-badge)](https://www.hackerrank.com/profile/kishankumar13281)
+[![Email](https://img.shields.io/badge/Email-%236A5ACD.svg?logo=gmail&logoColor=white&color=lavender&style=for-the-badge)](mailto:krss132005@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%236A5ACD.svg?logo=kaggle&logoColor=white&color=blue&style=for-the-badge)](https://www.kaggle.com/kish1328)
+<br><br><br>
+
+
+
 
 
 
@@ -115,23 +197,42 @@
 
  
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kishankumar1328&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kishankumar1328&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kishankumar1328&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br><br><br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kishankumar1328&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+<br><br><br>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/kishankumar1328">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kishankumar1328&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kishankumar1328&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kishankumar1328&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kishankumar1328&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kishankumar1328&theme=2077" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Kishankumar1328&theme=synthwave-84"/>
+
+
+
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<br><br><br>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kishankumar1328&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+<br><br><br>
 
 
----
-[![](https://visitcount.itsvg.in/api?id=kishankumar1328&label=Profile%20Views&color=0&icon=7&pretty=true)](https://visitcount.itsvg.in)
+
 
 
 
