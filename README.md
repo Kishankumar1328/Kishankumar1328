@@ -128,7 +128,7 @@
 
 
 
-# 🎓 Certifications 📜
+# 🎓 Certifications & Badges
 
 1. **Data Analysis using Python**  
    [![Certification](https://img.shields.io/badge/Data_Analysis_using_Python-orange?style=for-the-badge&logo=python&logoColor=black&color=orange)](https://credly.com/badges/ef16ffb5-db3c-4ded-b41b-fcaa35b2d2da/linked_in_profile)
