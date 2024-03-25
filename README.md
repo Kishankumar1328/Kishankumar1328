@@ -158,17 +158,17 @@
 
 # 🚀Skills
 
-
-   [![Data Analysis](https://img.shields.io/badge/Data%20Analysis-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.datapine.com/blog/data-analysis-methods-and-techniques/)
-
-
    [![Python](https://img.shields.io/badge/Python-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org/)
+   
+   [![Data Analysis](https://img.shields.io/badge/Data%20Analysis-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.datapine.com/blog/data-analysis-methods-and-techniques/)
 
    [![Data Visualization**](https://img.shields.io/badge/Data%20Visualization-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.ibm.com/topics/data-visualization)
 
+
+
    [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.ibm.com/topics/machine-learning)
 
-   [![Prompt Engineering](https://img.shields.io/badge/Prompting-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.ibm.com/topics/prompt-engineering)
+
    [![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-orange?style=for-the-badge&logo=robot&logoColor=black&color=orange)](https://www.ibm.com/topics/prompt-engineering)
    <br><br><br>
 
