@@ -23,7 +23,7 @@
 📫 How to reach me krss132005@gmail.com<br><br><br>
 🚀 See My Code Profile: [![HackerRank](https://img.shields.io/badge/HackerRank-%236A5ACD.svg?style=for-the-badge&logo=hackerrank&logoColor=white&color=green)](https://www.hackerrank.com/profile/kishankumar13281) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/krss132005/)
 <br><br><br>
-⭐ Profile Views: <a href="https://komarev.com/ghpvc/?username=kishankumar1328">
+⭐ Profile Views:  <a href="https://komarev.com/ghpvc/?username=kishankumar1328">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=kishankumar1328&style=for-the-badge&color=grey"/></a><br><br><br>
 📜Portfolio:  [![Streamlit](https://img.shields.io/badge/Streamlit-%23FF5733.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://profilo-6gir4yvjr8oqbwiqn7npjv.streamlit.app/#contact)
 
@@ -189,10 +189,14 @@
     <a href="https://github.com/Kishankumar1328/Recommendation_System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kishankumar1328&repo=Recommendation_System&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Recommendation_System"></a>
 
 </details>
+
+
 <p align="center">
   <a href=https://github.com/Kishankumar1328?page=3&tab=repositories&q=&type=&language=&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
+
+<br><br><br><br>
 
 
 
