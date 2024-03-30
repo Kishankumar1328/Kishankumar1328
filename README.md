@@ -175,6 +175,29 @@
 
 
 
+   <details open> 
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/Kishankumar1328/Stock-Dashboard-with-GPT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kishankumar1328&repo=Stock-Dashboard-with-GPT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Stock-Dashboard-with-GPT"></a>
+    <a href="https://github.com/Kishankumar1328/Emotion-detection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kishankumar1328&repo=Emotion-detection&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Emotion-detection"></a>
+    <a href="https://github.com/Kishankumar1328/lung_cancer_analysis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=kishankumar1328&repo=lung_cancer_analysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="lung_cancer_analysis"></a>
+         <a href="https://github.com/Kishankumar1328/SEMICONDUCTOR-STOCK-DASHBOARD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kishankumar1328&repo=SEMICONDUCTOR-STOCK-DASHBOARD&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SEMICONDUCTOR-STOCK-DASHBOARD"></a>
+    <a href="https://github.com/Kishankumar1328/SPEECH_RECOGNITION"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kishankumar1328&repo=SPEECH_RECOGNITION&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SPEECH_RECOGNITION"></a>
+    <a href="https://github.com/Kishankumar1328/Recommendation_System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kishankumar1328&repo=Recommendation_System&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Recommendation_System"></a>
+
+</details>
+<p align="center">
+  <a href=https://github.com/Kishankumar1328?page=3&tab=repositories&q=&type=&language=&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
+
+
+
+
+
+
 
 
 
@@ -240,3 +263,4 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
