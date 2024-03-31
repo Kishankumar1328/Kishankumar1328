@@ -28,7 +28,9 @@
 📜Portfolio:  [![Streamlit](https://img.shields.io/badge/Streamlit-%23FF5733.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://profilo-6gir4yvjr8oqbwiqn7npjv.streamlit.app/#contact)<br>
 <br>
 
-🩵GitHub profile:  [![Git Profile](https://img.shields.io/badge/GitScore-%23ADD8E6.svg?style=for-the-badge)](https://gitscore.ai/Kishankumar1328)
+🩵GitHub profile:  [![Git Profile](https://img.shields.io/badge/GitProfile-%23ADD8E6.svg?style=for-the-badge)](https://gitscore.ai/Kishankumar1328)<br><br>
+
+
 
 
 
