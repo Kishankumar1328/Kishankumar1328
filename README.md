@@ -264,9 +264,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 <br><br><br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kishankumar1328&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-<br><br><br>
+
 
 
 
