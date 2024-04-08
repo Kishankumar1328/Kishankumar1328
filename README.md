@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi<img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="60px"> I'm Kishan Kumar 🇮🇳</h1>
 <p align="left">
-   
 
 ![MasterHead](https://assets-global.website-files.com/6009d2de23c011ecef1fbe7a/65bad3b4a3298ddfbc2ea8fc_tacpoint-blog-v1-20240131.gif)
 
