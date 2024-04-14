@@ -43,7 +43,7 @@
 
 
 
-# 💻 Tech Stack:<br><br>
+# <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b>Tech Stack</b>
 
 ## Programming Languages
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.com/)
@@ -133,8 +133,7 @@
 
 
 
-
-# 🎓 Certifications & Badges
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Certifications & Badges</b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
 1. **Data Analysis using Python**  
    [![Certification](https://img.shields.io/badge/Data_Analysis_using_Python-orange?style=for-the-badge&logo=python&logoColor=black&color=orange)](https://credly.com/badges/ef16ffb5-db3c-4ded-b41b-fcaa35b2d2da/linked_in_profile)
@@ -161,7 +160,8 @@
    <br><br><br>
 
 
-# 🚀Skills
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>  Skills</b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> 
+
 
    [![Python](https://img.shields.io/badge/Python-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org/)
    
@@ -212,7 +212,7 @@
 
 
 
-## 🌐 Connect With Me:
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px> Connect With Me:
 [![Discord](https://img.shields.io/badge/Discord-%238A2BE2.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/invite/tenacious_quail_34080)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/kish130105?igshid=ZjF2NHRvb3BoNmpl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kishan-kumar-037175259/)
@@ -236,7 +236,7 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kishankumar1328&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kishankumar1328&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kishankumar1328&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishankumar1328&langs_count=8&theme=dark)
 <br><br><br>
 
 ## 🏆 GitHub Trophies
@@ -255,6 +255,7 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Kishankumar1328&theme=synthwave-84"/>
+
 
 
 
