@@ -212,13 +212,13 @@
 
 
 # <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px> Connect With Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kishan-kumar-037175259/)
+[![Email](https://img.shields.io/badge/Email-%236A5ACD.svg?logo=gmail&logoColor=white&color=red&style=for-the-badge)](mailto:krss132005@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%238A2BE2.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/invite/tenacious_quail_34080)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/kish130105?igshid=ZjF2NHRvb3BoNmpl)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kishan-kumar-037175259/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/23491869/kishan-kumar-suresh-kumar)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/KishanKumar1329)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%236A5ACD.svg?logo=hackerrank&logoColor=white&color=green&style=for-the-badge)](https://www.hackerrank.com/profile/kishankumar13281)
-[![Email](https://img.shields.io/badge/Email-%236A5ACD.svg?logo=gmail&logoColor=white&color=lavender&style=for-the-badge)](mailto:krss132005@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%236A5ACD.svg?logo=kaggle&logoColor=white&color=blue&style=for-the-badge)](https://www.kaggle.com/kish1328)
 <br><br><br>
 
