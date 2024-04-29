@@ -49,6 +49,7 @@
 
 ## Programming Languages
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.com/)
+[![R](https://img.shields.io/badge/R-FF00FF?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
@@ -159,6 +160,12 @@
 7. **Data Science Methodologies**  
    [![Certification](https://img.shields.io/badge/Data_Science_Methodologies-orange?style=for-the-badge&logo=python&logoColor=black&color=orange)](https://www.credly.com/badges/70ae2196-2b81-4544-b703-16d7b09cdccb/linked_in_profile)
 
+8. **R For Data Science**<br>
+   [![Certification](https://img.shields.io/badge/R_For_Data_Science-orange?style=for-the-badge&logo=R&logoColor=black)](https://www.credly.com/badges/46a57be1-1a14-43cf-8cd3-39a1352caa96/linked_in_profile)
+
+   
+
+
    <br><br><br>
 
 
@@ -166,10 +173,12 @@
 
 
    [![Python](https://img.shields.io/badge/Python-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org/)
+
+  [![R](https://img.shields.io/badge/R-orange?style=for-the-badge&logo=R&logoColor=black)](https://www.rproject.org/about.html#:~:text=R%20is%20a%20language%20and,by%20John%20Chambers%20and%20colleagues.)
    
    [![Data Analysis](https://img.shields.io/badge/Data%20Analysis-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.datapine.com/blog/data-analysis-methods-and-techniques/)
 
-   [![Data Visualization**](https://img.shields.io/badge/Data%20Visualization-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.ibm.com/topics/data-visualization)
+   [![Data Visualization](https://img.shields.io/badge/Data%20Visualization-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.ibm.com/topics/data-visualization)
 
 
 
@@ -177,6 +186,9 @@
 
 
    [![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-orange?style=for-the-badge&logo=robot&logoColor=black&color=orange)](https://www.ibm.com/topics/prompt-engineering)
+   
+ 
+   
    <br><br><br>
 
 
