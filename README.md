@@ -185,7 +185,7 @@
    [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge&logo=python&logoColor=black)](https://www.ibm.com/topics/machine-learning)
 
 
-   [![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-orange?style=for-the-badge&logo=robot&logoColor=black&color=orange)](https://www.ibm.com/topics/prompt-engineering)
+   [![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-orange?style=for-the-badge&logo=openai&logoColor=white)](https://www.ibm.com/topics/prompt-engineering)
    
  
    
