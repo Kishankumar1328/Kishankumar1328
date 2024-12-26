@@ -90,11 +90,31 @@
 [![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-%23000000.svg?style=for-the-badge&logo=beautifulsoup&logoColor=green)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 
-## Editors
+## IBM TOOLS
 
-[![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)](https://www.adobe.com/)
-[![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)](https://acrobat.adobe.com/)
-<br><br>
+<div style="display: flex; flex-wrap: wrap;">
+  <a href="https://www.ibm.com/products/cognos-analytics" target="_blank">
+    <img src="https://img.shields.io/badge/IBM%20Cognos%20BI-Red?style=for-the-badge&logo=ibm&logoColor=white&labelColor=FF0000&color=FF6347" alt="IBM Cognos BI">
+  </a>
+  
+  <a href="https://www.ibm.com/cloud/watson-autoai" target="_blank">
+    <img src="https://img.shields.io/badge/IBM%20Watson%20AutoAI-SKYBLUE?style=for-the-badge&logo=ibm&logoColor=white&labelColor=00BFFF&color=87CEEB" alt="IBM Watson AutoAI">
+  </a>
+
+  <a href="https://www.ibm.com/cloud/watson-assistant" target="_blank">
+    <img src="https://img.shields.io/badge/IBM%20Watson%20Assistant-Purple?style=for-the-badge&logo=ibm&logoColor=white&labelColor=800080&color=FF1493" alt="IBM Watson Assistant">
+  </a>
+
+  <a href="https://www.ibm.com/cloud/machine-learning" target="_blank">
+    <img src="https://img.shields.io/badge/Watson%20Machine%20Learning-Yellow?style=for-the-badge&logo=ibm&logoColor=white&labelColor=FF6347&color=FFD700" alt="IBM Watson Machine Learning">
+  </a>
+</div>
+
+
+
+
+
+
 
 
 ## Designing
