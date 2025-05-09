@@ -23,16 +23,19 @@
 🌱 I’m currently learning Machine Learning Algorithm's <br><br><br>
 💬 Ask me about Data Analysis,Data Visualization,Machine Learning<br><br><br>
 📫 How to reach me krss132005@gmail.com<br><br><br>
+
 🚀 See My Code Profile: [![HackerRank](https://img.shields.io/badge/HackerRank-%236A5ACD.svg?style=for-the-badge&logo=hackerrank&logoColor=white&color=green)](https://www.hackerrank.com/profile/kishankumar13281) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/krss132005/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/krss132005)
+
 <br><br><br>
 ⭐ Profile Views:  <a href="https://komarev.com/ghpvc/?username=kishankumar1328">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=kishankumar1328&style=for-the-badge&color=grey"/></a><br><br><br>
-
 
 🩵GitHub profile:  [![Git Profile](https://img.shields.io/badge/GitProfile-%23ADD8E6.svg?style=for-the-badge)](https://gitscore.ai/Kishankumar1328)<br><br>
 
 
 
+[![⚡ Visit My Portfolio – Electric Aura](https://img.shields.io/badge/⚡%20Visit%20My%20Portfolio-Electric%20Aura-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white)](https://electric-aura-resume.vercel.app/)
 
 
 
@@ -81,6 +84,12 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-%23FF5733.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Gradio](https://img.shields.io/badge/Gradio-%230072b1.svg?style=for-the-badge&logo=gradio&logoColor=white)](https://www.gradio.app/)
 
+
+## AI&LLM
+
+![Transformers](https://img.shields.io/badge/Transformers-%23FF6F61?style=for-the-badge&logo=huggingface&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-%23000000?style=for-the-badge&logo=ollama&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%233a6df7?style=for-the-badge&logo=langchain&logoColor=white)
 
 
 
