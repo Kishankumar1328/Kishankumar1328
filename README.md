@@ -36,7 +36,7 @@
 
 
 
-[![⚡Visit My Portfolio](https://img.shields.io/badge/Portfolio-Electric%20Aura-blueviolet?style=for-the-badge)](https://kishan-kumar-suresh-kumar-ap6ny583t-kishankumar1328s-projects.vercel.app/)
+[![⚡Visit My Portfolio](https://img.shields.io/badge/Portfolio-Electric%20Aura-blueviolet?style=for-the-badge)](https://kishan-kumar-suresh-kumar.vercel.app/)
 
 
 
