@@ -35,8 +35,8 @@
 
 
 
-[![⚡ Visit My Portfolio – Electric Aura](https://portfolio-fhd933xkv-kishankumar1328s-projects.vercel.app/)
 
+[![⚡Visit My Portfolio](https://img.shields.io/badge/Portfolio-Electric%20Aura-blueviolet?style=for-the-badge)](https://portfolio-fhd933xkv-kishankumar1328s-projects.vercel.app/)
 
 
 
