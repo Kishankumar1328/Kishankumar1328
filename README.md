@@ -376,18 +376,83 @@ Currently exploring **RAG, LLM applications, Agentic AI, and Data Engineering** 
 
 
 
-# <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px> Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kishan-kumar-037175259/)
-[![Email](https://img.shields.io/badge/Email-%236A5ACD.svg?logo=gmail&logoColor=white&color=red&style=for-the-badge)](mailto:krss132005@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%238A2BE2.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/invite/tenacious_quail_34080)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/kish130105?igshid=ZjF2NHRvb3BoNmpl)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/23491869/kishan-kumar-suresh-kumar)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/KishanKumar1329)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%236A5ACD.svg?logo=hackerrank&logoColor=white&color=green&style=for-the-badge)](https://www.hackerrank.com/profile/kishankumar13281)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%236A5ACD.svg?logo=kaggle&logoColor=white&color=blue&style=for-the-badge)](https://www.kaggle.com/kish1328)
-<br><br><br>
+## 🤝 Connect With Me
 
+<div align="center">
 
+<table>
+
+<tr>
+<td width="220"><b>Professional</b></td>
+<td>
+
+<a href="https://www.linkedin.com/in/kishan-kumar-037175259/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="LinkedIn">
+</a>
+<a href="mailto:krss132005@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Gmail">
+</a>&nbsp;
+
+<a href="https://github.com/Kishankumar1328">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="36" height="36" alt="GitHub">
+</a>&nbsp;
+
+<a href="https://kishankumar-13-01-2005.vercel.app/">
+<img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="36" height="36" alt="Portfolio">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td><b>Coding Platforms</b></td>
+<td>
+
+<a href="https://www.hackerrank.com/profile/kishankumar13281">
+<img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="36" height="36" alt="HackerRank">
+</a>&nbsp;
+
+<a href="https://leetcode.com/krss132005/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="36" height="36" alt="LeetCode">
+</a>&nbsp;
+
+<a href="https://www.codechef.com/users/krss132005">
+<img src="https://cdn.simpleicons.org/codechef/FFFFFF" width="36" height="36" alt="CodeChef">
+</a>&nbsp;
+
+<a href="https://www.kaggle.com/kish1328">
+<img src="https://img.shields.io/badge/K-20BEFF?style=flat-square&logo=kaggle&logoColor=white" width="36" height="36" alt="Kaggle">
+</a>&nbsp;
+
+<a href="https://stackoverflow.com/users/23491869/kishan-kumar-suresh-kumar">
+<img src="https://cdn.simpleicons.org/stackoverflow/FE7A16" width="36" height="36" alt="Stack Overflow">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td><b>Social & Community</b></td>
+<td>
+
+<a href="https://discord.com/invite/tenacious_quail_34080">
+<img src="https://cdn.simpleicons.org/discord/5865F2" width="36" height="36" alt="Discord">
+</a>&nbsp;
+
+<a href="https://instagram.com/kish130105">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="36" height="36" alt="Instagram">
+</a>&nbsp;
+
+<a href="https://twitter.com/KishanKumar1329">
+<img src="https://cdn.simpleicons.org/x/FFFFFF" width="36" height="36" alt="X">
+</a>
+
+</td>
+</tr>
+
+</table>
+
+</div>
 
 
 
